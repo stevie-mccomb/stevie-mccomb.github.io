@@ -20,4 +20,8 @@
     <loc>https://your-website-url.example.com/posts/post-with-code/index.html</loc>
     <lastmod>2026-02-04T18:03:35.039Z</lastmod>
   </url>
+  <url>
+    <loc>https://my-quarto-blog.github.io/index.html</loc>
+    <lastmod>2026-02-04T18:00:38.846Z</lastmod>
+  </url>
 </urlset>

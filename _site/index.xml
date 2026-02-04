@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>My Quarto Blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://my-quarto-blog.github.io/</link>
+<atom:link href="https://my-quarto-blog.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Wed, 04 Feb 2026 08:00:00 GMT</lastBuildDate>
 <item>
   <title>My Example Post</title>
   <dc:creator>Stevie McComb</dc:creator>
-  <link>https://your-website-url.example.com/posts/my-example-post/</link>
+  <link>https://my-quarto-blog.github.io/posts/my-example-post/</link>
   <description><![CDATA[ 
 
 
@@ -27,7 +27,7 @@
 <h2 class="anchored" data-anchor-id="lorem-ipsum-dolor-sit-amet.">Lorem ipsum dolor sit amet.</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://your-website-url.example.com/posts/my-example-post/image.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://my-quarto-blog.github.io/posts/my-example-post/image.jpg" class="img-fluid figure-img"></p>
 <figcaption>My Example Image</figcaption>
 </figure>
 </div>
@@ -39,14 +39,14 @@
 
  ]]></description>
   <category>code</category>
-  <guid>https://your-website-url.example.com/posts/my-example-post/</guid>
+  <guid>https://my-quarto-blog.github.io/posts/my-example-post/</guid>
   <pubDate>Wed, 04 Feb 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/my-example-post/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://my-quarto-blog.github.io/posts/my-example-post/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://my-quarto-blog.github.io/posts/post-with-code/</link>
   <description><![CDATA[ 
 
 
@@ -73,14 +73,14 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <category>news</category>
   <category>code</category>
   <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
+  <guid>https://my-quarto-blog.github.io/posts/post-with-code/</guid>
   <pubDate>Wed, 04 Feb 2026 08:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://my-quarto-blog.github.io/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
   <dc:creator>Tristan O&#39;Malley</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://my-quarto-blog.github.io/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -88,14 +88,14 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
 
 <p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+<p><img src="https://my-quarto-blog.github.io/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
 
 
  ]]></description>
   <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
+  <guid>https://my-quarto-blog.github.io/posts/welcome/</guid>
   <pubDate>Sun, 01 Feb 2026 08:00:00 GMT</pubDate>
 </item>
 </channel>
