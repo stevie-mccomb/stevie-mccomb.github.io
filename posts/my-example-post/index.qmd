@@ -1,5 +1,5 @@
 ---
-title: "My Example Post"
+title: "My Example Post (Updated)"
 author: "Stevie McComb"
 date: "2026-02-04"
 categories: [code]

@@ -9,14 +9,14 @@
   {
     "objectID": "posts/my-example-post/index.html",
     "href": "posts/my-example-post/index.html",
-    "title": "My Example Post",
+    "title": "My Example Post (Updated)",
     "section": "",
     "text": "My Example Image\n\n\nLorem ipsum dolor sit amet…"
   },
   {
     "objectID": "posts/my-example-post/index.html#lorem-ipsum-dolor-sit-amet.",
     "href": "posts/my-example-post/index.html#lorem-ipsum-dolor-sit-amet.",
-    "title": "My Example Post",
+    "title": "My Example Post (Updated)",
     "section": "",
     "text": "My Example Image\n\n\nLorem ipsum dolor sit amet…"
   },
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "My Quarto Blog",
     "section": "",
-    "text": "My Example Post\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\nStevie McComb\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "My Example Post (Updated)\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\nStevie McComb\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
