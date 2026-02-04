@@ -1,0 +1,15 @@
+{
+  "hash": "9ee033d287ed64bc146435b8886084d7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My Example Post\"\nauthor: \"Stevie McComb\"\ndate: \"2026-02-04\"\ncategories: [code]\nimage: \"image.jpg\"\n---\n\n# My Example Post\n\n## Lorem ipsum dolor sit amet.\n\n![My Example Image](image.jpg)\n\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(\"example\")\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"example\"\n```\n\n\n:::\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

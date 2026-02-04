@@ -1,0 +1,15 @@
+---
+title: "My Example Post"
+author: "Stevie McComb"
+date: "2026-02-04"
+categories: [code]
+image: "image.jpg"
+---
+
+# My Example Post
+
+## Lorem ipsum dolor sit amet.
+
+![My Example Image](image.jpg)
+
+Lorem ipsum dolor sit amet...
