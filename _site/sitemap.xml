@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://my-quarto-blog.github.io/index.html</loc>
+    <lastmod>2026-02-04T18:20:08.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://my-quarto-blog.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2026-02-04T18:20:08.518Z</lastmod>
+  </url>
+  <url>
+    <loc>https://my-quarto-blog.github.io/about.html</loc>
+    <lastmod>2026-02-04T18:20:08.516Z</lastmod>
+  </url>
+  <url>
+    <loc>https://my-quarto-blog.github.io/posts/my-example-post/index.html</loc>
+    <lastmod>2026-02-05T00:07:46.447Z</lastmod>
+  </url>
+  <url>
+    <loc>https://my-quarto-blog.github.io/posts/welcome/index.html</loc>
+    <lastmod>2026-02-04T18:20:08.518Z</lastmod>
+  </url>
+</urlset>
