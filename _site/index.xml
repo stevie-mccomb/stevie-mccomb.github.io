@@ -101,5 +101,25 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <guid>https://my-quarto-blog.github.io/posts/welcome/</guid>
   <pubDate>Sun, 01 Feb 2026 08:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>Brand New Post</title>
+  <link>https://my-quarto-blog.github.io/posts/brand-new-post/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="this-is-my-brand-new-post" class="level1">
+<h1>This is my brand new post!</h1>
+<p>Lorem ipsum dolor sit amet.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://my-quarto-blog.github.io/posts/brand-new-post/</guid>
+  <pubDate>Thu, 05 Feb 2026 00:29:25 GMT</pubDate>
+</item>
 </channel>
 </rss>
