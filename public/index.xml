@@ -21,8 +21,8 @@
 
 
 
-<section id="my-example-post" class="level1">
-<h1>My Example Post</h1>
+<section id="my-example-post-updated" class="level1">
+<h1>My Example Post (Updated)</h1>
 <section id="lorem-ipsum-dolor-sit-amet." class="level2">
 <h2 class="anchored" data-anchor-id="lorem-ipsum-dolor-sit-amet.">Lorem ipsum dolor sit amet.</h2>
 <div class="quarto-figure quarto-figure-center">
@@ -32,8 +32,11 @@
 </figure>
 </div>
 <p>Lorem ipsum dolor sit amet…</p>
+<section id="example-headline-3" class="level3">
+<h3 class="anchored" data-anchor-id="example-headline-3">Example Headline 3</h3>
 
 
+</section>
 </section>
 </section>
 
